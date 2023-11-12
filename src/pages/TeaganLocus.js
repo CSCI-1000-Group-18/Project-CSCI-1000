@@ -15,8 +15,8 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I am Teagan! Here are a few things about me: I am from Chicago, I have an older brother who goes to CSU, and I have a cat 
-            named Hopper. I chose CU Boulder because I wanted to be in the mountains so I could hike, ski, and rock climb!"
+            Hey, I am Teagan! Here are a few things about me: I am from Chicago, I have an older brother who goes to CSU, and I have a cat 
+            named "Hopper". I chose CU Boulder because I wanted to be in the mountains so I could hike, ski, and rock climb!"
           </p>
 
           <a className='button' href='/'>
