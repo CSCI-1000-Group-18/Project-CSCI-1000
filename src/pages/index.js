@@ -24,12 +24,32 @@ export default function Home() {
         <div className='grid'>
           <a href='/TomHolland ' className='card'>
             <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+            <p>Click here to navigate</p>
           </a>
 
           <a href='/BrookeNelson ' className='card'>
             <h3>Brooke's About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+            <p>Click here to navigate</p>
+          </a>
+          
+          <a href='/RyleeBerger ' className='card'>
+            <h3>Rylee's About Me Page &rarr;</h3>
+            <p>Click here to navigate</p>
+          </a>
+
+          <a href='/TeaganLocus ' className='card'>
+            <h3>Teagan's About Me Page &rarr;</h3>
+            <p>Click here to navigate</p>
+          </a>
+
+          <a href='/EmilyMcIntyre ' className='card'>
+            <h3>Emily's About Me Page &rarr;</h3>
+            <p>Click here to navigate</p>
+          </a>
+
+          <a href='/KatieMiller ' className='card'>
+            <h3>Katie's About Me Page &rarr;</h3>
+            <p>Click here to navigate</p>
           </a>
 
           <a
