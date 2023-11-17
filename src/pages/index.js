@@ -1,5 +1,7 @@
 import Head from 'next/head'
 
+// NETLIFY LINK: https://zesty-gelato-dd610c.netlify.app/ 
+
 export default function Home() {
   return (
     <div className='container'>
